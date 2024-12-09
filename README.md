@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Bees7nees!
+- 🧠 Passionate about the intersection of Anthropology, Science, and Technology.
+- 💻 Currently learning Python and exploring its applications in data analysis and machine learning.
+- 🤝 Looking to collaborate on innovative machine learning projects that make a real-world impact.
+- 📬 Feel free to reach out at ghmoenrique@gmail.com.
+- 🦆 Fun fact: I adore ducks and find lavender absolutely charming.
